@@ -10,6 +10,6 @@ On this page you can read informations as:
 2. Skills i have earned 🎓  
 3. Recommendetions by pople who worked.  with me. 
 ## Language used 👨🏻‍💻  
-*HTML5. 
-*CSS3. 
-*JavaScript. 
+* HTML5. 
+* CSS3. 
+* JavaScript. 
