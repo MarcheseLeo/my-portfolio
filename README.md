@@ -1,3 +1,4 @@
+
 # My portfolio web page. 
 Hi everyone, welcome on my portfolio! 
 ## Quick Links🌐  
@@ -12,4 +13,6 @@ On this page you can read informations as:
 ## Language used 👨🏻‍💻  
 * HTML5 ![html5](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/html5.png "logo")  
 * CSS3 ![css3](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/CSS3.png "logo")   
-* JavaScript ![js](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/js.jpeg "logo")   
+* JavaScript ![js](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/js.jpeg "logo")
+
+[js](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/js.jpeg "logo")   
