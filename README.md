@@ -1,6 +1,5 @@
 # My portfolio web page. 
 Hi everyone, this is my portfolio! 
-*** 
 ## Quick Links🌐  
 1. [portfolio](https://marcheseleo.github.io/my-portfolio/)  
 ****
