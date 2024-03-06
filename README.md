@@ -3,7 +3,11 @@
 Hi everyone, welcome on my portfolio! 
 ## Quick Links🌐  
 1. [portfolio](https://marcheseleo.github.io/my-portfolio/)  
-2. [contacts](#contacts)
+2. [info](#info)  
+3. [languages](#language used)
+4. [contacts](#contacts)
+
+
 ****
 ## Info
 It is a web page made by my own, designed front-end and developed back-end  
