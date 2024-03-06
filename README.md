@@ -2,7 +2,7 @@
 Hi everyone, this is my portfolio! 
 *** 
 ## Quick Links🌐  
-[portfolio](https://marcheseleo.github.io/my-portfolio/)  
+1. [portfolio](https://marcheseleo.github.io/my-portfolio/)  
 ## Info. 
 It is a web page made by my own, designed front-end and developed back-end  
 On this page you can read informations as:  
