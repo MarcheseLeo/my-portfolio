@@ -12,5 +12,5 @@ On this page you can read informations as:
 3. Recommendetions by pople who worked.  with me. 
 ## Language used 👨🏻‍💻  
 * HTML5 ![html5](html_finalprojimages/Smallhtml5.png "logo")  
-* CSS3 ![css3](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/CSS3.png "logo")   
-* JavaScript ![js](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/js.jpeg "logo")
+* CSS3 ![css3](html_finalprojimages/SmallCSS3.png "logo")   
+* JavaScript ![js](html_finalprojimages/Smalljs.jpeg "logo")
