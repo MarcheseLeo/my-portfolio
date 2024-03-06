@@ -14,25 +14,3 @@ On this page you can read informations as:
 * HTML5 ![html5](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/html5.png "logo")  
 * CSS3 ![css3](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/CSS3.png "logo")   
 * JavaScript ![js](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/js.jpeg "logo")
-
-![js](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/js.jpeg) 
-
-1. Set up your table and code blocks.
-1. Perform this step.
-
-   ![screen](/docs/contributor/assets/adobe_standard_logo.png?lang=it)
-
-1. Make sure that your table looks like this:
-
-   | Hello | World |
-   |---|---|
-   | How | are you? |
-
-1. This is the fourth step.
-
-   >[!NOTE]
-   >
-   >This is note text.
-
-1. Do another step.
-  
