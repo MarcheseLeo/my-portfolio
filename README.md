@@ -4,7 +4,7 @@ Hi everyone, welcome on my portfolio!
 ## Quick Links🌐  
 1. [portfolio](https://marcheseleo.github.io/my-portfolio/)  
 2. [info](#info)  
-3. [languages](#language used)
+3. [languages](#language)
 4. [contacts](#contacts)
 
 
