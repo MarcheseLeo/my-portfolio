@@ -26,6 +26,6 @@ On this page you can read informations as:
 * Telegram: [t.me/Leomarchese](https://t.me/Leomarchese) ![telegram](readme_images/telegram-logo.png) 
 --- 
 ### Credits
-[torna su](#links)
+[torna su](https://github.com/MarcheseLeo/my-portfolio)https://github.com/MarcheseLeo/my-portfolio)
 
 
