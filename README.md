@@ -15,7 +15,7 @@ On this page you can read informations as:
 1. About me 👦🏻  
 2. Skills i have earned 🎓  
 3. Recommendetions by pople who worked.  with me. 
-## Language 
+## Language👨🏻‍💻 
 * HTML5 ![html5](readme_images/Smallhtml5.png "logo")  
 * CSS3 ![css3](readme_images/SmallCSS3.png "logo")   
 * JavaScript ![js](readme_images/Smalljs.jpeg "logo")
