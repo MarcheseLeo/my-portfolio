@@ -16,3 +16,6 @@ On this page you can read informations as:
 * HTML5 ![html5](readme_images/Smallhtml5.png "logo")  
 * CSS3 ![css3](readme_images/SmallCSS3.png "logo")   
 * JavaScript ![js](readme_images/Smalljs.jpeg "logo")
+***
+##Contacts. 
+* Telegram: [t.me/Leomarchese](https://t.me/Leomarchese) ![telegram](readme_images/telegram-logo.png)
