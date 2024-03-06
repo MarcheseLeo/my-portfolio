@@ -18,7 +18,7 @@ On this page you can read informations as:
 * JavaScript ![js](readme_images/Smalljs.jpeg "logo")
 ***
 ## Contacts.
-*Email: [leonardo.lol.ldp@gmail.com](mailto: @gmail.com,leonardo.lol.ldp@gmail.com)   
+*Email: [leonardo.lol.ldp@gmail.com](mailto:@gmail.com,leonardo.lol.ldp@gmail.com)   
 * Telegram: [t.me/Leomarchese](https://t.me/Leomarchese) ![telegram](readme_images/telegram-logo.png)  
 
 
