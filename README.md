@@ -5,7 +5,8 @@ Hi everyone, welcome on my portfolio!
 1. [portfolio](https://marcheseleo.github.io/my-portfolio/)  
 2. [info](#info)  
 3. [languages](#language)
-4. [contacts](#contacts)
+4. [contacts](#contacts)  
+5. [credits](#credits)
 
 
 ****
