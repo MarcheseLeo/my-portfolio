@@ -10,6 +10,6 @@ On this page you can read informations as:
 2. Skills i have earned 🎓  
 3. Recommendetions by pople who worked.  with me. 
 ## Language used 👨🏻‍💻  
-* HTML5 [logo](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/html5.png "logo")  
+* HTML5 ![logo](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/html5.png "logo")  
 * CSS3. 
 * JavaScript. 
