@@ -15,4 +15,4 @@ On this page you can read informations as:
 * CSS3 ![css3](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/CSS3.png "logo")   
 * JavaScript ![js](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/js.jpeg "logo")
 
-[js](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/js.jpeg "logo")   
+![js](https://github.com/MarcheseLeo/my-portfolio/tree/main/html_finalprojimages/js.jpeg "logo")   
